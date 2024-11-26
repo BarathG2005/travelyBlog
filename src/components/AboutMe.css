@@ -1,0 +1,54 @@
+.about-me {
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+  
+    margin: 20px;
+    border-radius: 8px;
+
+  }
+  
+  .about-me h2 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .about-me h3 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-top: 30px;
+    margin-bottom: 15px;
+
+  }
+  
+  .about-me .intro,
+  .about-me .philosophy,
+  .about-me .photo-diaries,
+  .about-me .join-journey {
+    font-size: 1.2rem;
+    color: #34495e;
+    line-height: 1.6;
+    max-width: 800px;
+
+  }
+  
+  .about-me .adventures,
+  .about-me .travel-tips {
+    font-size: 1.1rem;
+    color: #34495e;
+    line-height: 1.6;
+   
+    max-width: 800px;
+    list-style: none;
+    margin-top: 20px;
+  }
+  
+  .about-me .adventures li,
+  .about-me .travel-tips li {
+    margin-bottom: 15px;
+  }
+  
+  .about-me strong {
+    font-weight: bold;
+  }
+ 
